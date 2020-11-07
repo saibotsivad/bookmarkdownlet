@@ -20,7 +20,12 @@
   },
   "homepage": "https://github.com/saibotsivad/bookmarkdownlet#readme",
   "dependencies": {
+    "@polka/parse": "^1.0.0-next.0",
     "polka": "^0.5.2",
-    "sade": "^1.7.4"
+    "sade": "^1.7.4",
+    "sluggish": "^1.0.1",
+    "tinydate": "^1.3.0",
+    "turndown": "^7.0.0",
+    "uid": "^2.0.0"
   }
 }
