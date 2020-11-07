@@ -1,7 +1,7 @@
 {
   "name": "bookmarkdownlet",
   "version": "0.0.0",
-  "description": "Save web pages as markdown files using a browser bookmarklet.",
+  "description": "Save web pages to disk as markdown files using a browser bookmarklet.",
   "bin": "index.js",
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/saibotsivad/bookmarkdownlet#readme",
   "dependencies": {
+    "polka": "^0.5.2",
     "sade": "^1.7.4"
   }
 }
